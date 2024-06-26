@@ -38,7 +38,7 @@ const Header = () => {
               },
             ]}
           >
-            Michael Bansah
+            Samuel Akpah
           </Text>
         </View>
       </View>
